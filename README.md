@@ -1,4 +1,4 @@
-# covid19-dashboard
+# COVID-19 Graphical Dashboard
 
 Hosted as a Binder at: https://bit.ly/2JmOvTu (Please allow for long loading times while the Binder initialises)
 
